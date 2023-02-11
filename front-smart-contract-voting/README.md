@@ -10,6 +10,7 @@ Tecnologías usadas:
 - React (18.2)
 - Chakra UI( 2.4.9)
 - Vite (4.1)
+- Ethers 
 
 Lógica del proyecto:
 
