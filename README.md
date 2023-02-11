@@ -1,9 +1,23 @@
-# Proyecto: Academia DiaYuLau
+# Proyecto: Votaciones en la Academia DiaYuLau
 Este contrato permite generar votaciones para resolver la problematica:
+La academia está organizando un bootcamp para becar a 250 chicas que deseen iniciarse en el mundo de la programación.
+Para concretar el contenido programático para este proyecto han convocado a 25 organizaciones aliadas,30 profesores de la academia, 15 Universidades y 10 empresas patrocinantes .
+En total 2.500.000 votantes , más aquellos que se sumen a la convocatoria que se ha realizado en un distrito de la capital .
 
+# REMIX CONTRATO PARA VOTACION DE CURSOS
+# ---------------------------------------
+Este contrato resuelve el problema presentado:
 
+1. Ingresar a la carpeta remix-contract
+2. Copiar en Remix el código de VoteSPT.sol
+3. Compilar en Remix
+4. Deployar
+5. Ingresar al video del demo en PDF y ejecutar las pruebas
 
+# INTERFAZ DE USUARIO CON HARDHAT Y REACT
+# ----------------------------------------
 # Front-end
+Se esta usando en este proyecto el contrato por defecto de Remix: Ballon, solo para hacer un demo de interfaz de Usuario.
 
 ## Descripción técnica
 Tecnologías usadas:
